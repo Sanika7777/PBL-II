@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select Your Mood</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>How are you feeling today?</h1>
+        <p>Select your current mood to get personalized music recommendations</p>
+        
+        <form method="POST" action="{{ url_for('select_mood') }}">
+            <div class="mood-options">
+                <label class="mood-option">
+                    <input type="radio" name="mood" value="sadness" required>
+                    <div class="mood-icon">😢</div>
+                    <span>Sadness</span>
+                </label>
+                
+                <label class="mood-option">
+                    <input type="radio" name="mood" value="joy">
+                    <div class="mood-icon">😄</div>
+                    <span>Joy</span>
+                </label>
+                
+                <label class="mood-option">
+                    <input type="radio" name="mood" value="surprise">
+                    <div class="mood-icon">😲</div>
+                    <span>Surprise</span>
+                </label>
+                
+                <label class="mood-option">
+                    <input type="radio" name="mood" value="anger">
+                    <div class="mood-icon">😠</div>
+                    <span>Anger</span>
+                </label>
+                
+                <label class="mood-option">
+                    <input type="radio" name="mood" value="neutral">
+                    <div class="mood-icon">😐</div>
+                    <span>Neutral</span>
+                </label>
+                
+                <label class="mood-option">
+                    <input type="radio" name="mood" value="fear">
+                    <div class="mood-icon">😨</div>
+                    <span>Fear</span>
+                </label>
+            </div>
+            
+            <button type="submit" class="btn">Get Recommendations</button>
+        </form>
+        
+        <a href="{{ url_for('logout') }}" class="logout-link">Logout</a>
+    </div>
+</body>
+</html>
