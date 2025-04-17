@@ -1,0 +1,226 @@
+emotion,movie_title,genre,rating,lead_actors,release_year
+admiration,The Pursuit of Happyness,Biographical Drama,8.0,Will Smith/Jaden Smith,2006
+amusement,The Hangover,Comedy,7.7,Bradley Cooper/Ed Helms/Zach Galifianakis,2009
+anger,Rocky,Sports Drama,8.1,Sylvester Stallone/Talia Shire,1976
+annoyance,Legally Blonde,Comedy,6.3,Reese Witherspoon/Luke Wilson,2001
+approval,The Blind Side,Biographical Drama,7.6,Sandra Bullock/Quinton Aaron,2009
+caring,Wonder,Drama,8.0,Julia Roberts/Owen Wilson/Jacob Tremblay,2017
+confusion,Inception,Sci-Fi Thriller,8.8,Leonardo DiCaprio/Ellen Page,2010
+curiosity,Hidden Figures,Biographical Drama,7.8,Taraji P. Henson/Octavia Spencer/Janelle Monáe,2016
+desire,La La Land,Musical Romance,8.0,Ryan Gosling/Emma Stone,2016
+disappointment,Silver Linings Playbook,Romantic Comedy,7.7,Bradley Cooper/Jennifer Lawrence,2012
+disapproval,Dead Poets Society,Drama,8.1,Robin Williams/Ethan Hawke,1989
+disgust,Matilda,Fantasy Comedy,6.9,Mara Wilson/Danny DeVito,1996
+embarrassment,Clueless,Comedy,6.8,Alicia Silverstone/Paul Rudd,1995
+excitement,Avengers: Endgame,Superhero Action,8.4,Robert Downey Jr./Chris Evans,2019
+fear,Jaws,Thriller,8.0,Roy Scheider/Richard Dreyfuss,1975
+gratitude,It's a Wonderful Life,Fantasy Drama,8.6,James Stewart/Donna Reed,1946
+grief,Good Will Hunting,Drama,8.3,Matt Damon/Robin Williams,1997
+joy,Paddington 2,Family Comedy,7.8,Ben Whishaw/Hugh Grant,2017
+love,The Princess Bride,Adventure Romance,8.0,Cary Elwes/Robin Wright,1987
+nervousness,Ferris Bueller's Day Off,Comedy,7.8,Matthew Broderick/Alan Ruck,1986
+optimism,Forrest Gump,Drama,8.8,Tom Hanks/Robin Wright,1994
+pride,The Karate Kid,Sports Drama,7.3,Ralph Macchio/Pat Morita,1984
+realization,The Truman Show,Comedy Drama,8.1,Jim Carrey/Laura Linney,1998
+relief,Shawshank Redemption,Drama,9.3,Tim Robbins/Morgan Freeman,1994
+remorse,The Perks of Being a Wallflower,Coming-of-Age Drama,8.0,Logan Lerman/Emma Watson,2012
+sadness,Inside Out,Animated Comedy,8.1,Amy Poehler/Phyllis Smith,2015
+surprise,The Greatest Showman,Musical Biography,7.6,Hugh Jackman/Zac Efron,2017
+neutral,The Secret Life of Walter Mitty,Adventure Comedy,7.3,Ben Stiller/Kristen Wiig,2013
+admiration,The Theory of Everything,Biographical Drama,7.7,Eddie Redmayne/Felicity Jones,2014
+amusement,Bridesmaids,Comedy,6.8,Kristen Wiig/Maya Rudolph,2011
+anger,The Help,Drama,8.0,Emma Stone/Viola Davis/Octavia Spencer,2011
+annoyance,Mean Girls,Comedy,7.0,Lindsay Lohan/Rachel McAdams,2004
+approval,Lion,Biographical Drama,8.0,Dev Patel/Nicole Kidman,2016
+caring,Amélie,Romantic Comedy,8.3,Audrey Tautou/Mathieu Kassovitz,2001
+confusion,The Matrix,Sci-Fi Action,8.7,Keanu Reeves/Laurence Fishburne,1999
+curiosity,Interstellar,Sci-Fi Adventure,8.6,Matthew McConaughey/Anne Hathaway,2014
+desire,Before Sunrise,Romance Drama,8.1,Ethan Hawke/Julie Delpy,1995
+disappointment,Little Miss Sunshine,Comedy Drama,7.8,Abigail Breslin/Greg Kinnear,2006
+disapproval,Freedom Writers,Biography Drama,7.5,Hilary Swank/Patrick Dempsey,2007
+disgust,The Breakfast Club,Comedy Drama,7.8,Emilio Estevez/Judd Nelson/Molly Ringwald,1985
+embarrassment,The 40-Year-Old Virgin,Comedy,7.1,Steve Carell/Catherine Keener,2005
+excitement,Spider-Man: Into the Spider-Verse,Animated Superhero,8.4,Shameik Moore/Jake Johnson,2018
+fear,Get Out,Horror Thriller,7.7,Daniel Kaluuya/Allison Williams,2017
+gratitude,Pay It Forward,Drama,7.1,Haley Joel Osment/Kevin Spacey/Helen Hunt,2000
+grief,Up,Animated Adventure,8.2,Ed Asner/Jordan Nagai,2009
+joy,Singing in the Rain,Musical Comedy,8.3,Gene Kelly/Debbie Reynolds,1952
+love,When Harry Met Sally,Romantic Comedy,7.6,Billy Crystal/Meg Ryan,1989
+nervousness,School of Rock,Musical Comedy,7.1,Jack Black/Joan Cusack,2003
+optimism,Life is Beautiful,Comedy Drama,8.6,Roberto Benigni/Nicoletta Braschi,1997
+pride,Remember the Titans,Sports Drama,7.8,Denzel Washington/Will Patton,2000
+realization,The Sixth Sense,Thriller,8.1,Bruce Willis/Haley Joel Osment,1999
+relief,Cast Away,Adventure Drama,7.8,Tom Hanks/Helen Hunt,2000
+remorse,About Time,Romantic Comedy,7.8,Domhnall Gleeson/Rachel McAdams,2013
+sadness,The Fault in Our Stars,Romance Drama,7.7,Shailene Woodley/Ansel Elgort,2014
+surprise,Back to the Future,Sci-Fi Comedy,8.5,Michael J. Fox/Christopher Lloyd,1985
+neutral,Lost in Translation,Drama,7.7,Bill Murray/Scarlett Johansson,2003
+admiration,A Beautiful Mind,Biographical Drama,8.2,Russell Crowe/Jennifer Connelly,2001
+amusement,Dumb and Dumber,Comedy,7.3,Jim Carrey/Jeff Daniels,1994
+anger,12 Years a Slave,Historical Drama,8.1,Chiwetel Ejiofor/Michael Fassbender,2013
+annoyance,Mrs. Doubtfire,Comedy,7.0,Robin Williams/Sally Field,1993
+approval,The Intouchables,Biography Comedy,8.5,François Cluzet/Omar Sy,2011
+caring,Spirited Away,Animated Fantasy,8.6,Rumi Hiiragi/Miyu Irino,2001
+confusion,The Prestige,Mystery Thriller,8.5,Hugh Jackman/Christian Bale,2006
+curiosity,The Imitation Game,Historical Drama,8.0,Benedict Cumberbatch/Keira Knightley,2014
+desire,Casablanca,Romance Drama,8.5,Humphrey Bogart/Ingrid Bergman,1942
+disappointment,The Secret Garden,Family Drama,7.3,Kate Maberly/Maggie Smith,1993
+disapproval,Whiplash,Drama Music,8.5,Miles Teller/J.K. Simmons,2014
+disgust,Ratatouille,Animated Comedy,8.0,Patton Oswalt/Lou Romano,2007
+embarrassment,Bridget Jones's Diary,Romantic Comedy,6.7,Renée Zellweger/Colin Firth,2001
+excitement,Guardians of the Galaxy,Sci-Fi Adventure,8.0,Chris Pratt/Zoe Saldana,2014
+fear,Jumanji,Adventure Fantasy,7.0,Robin Williams/Bonnie Hunt,1995
+gratitude,The Bucket List,Comedy Drama,7.4,Jack Nicholson/Morgan Freeman,2007
+grief,The Lion King,Animated Drama,8.5,Matthew Broderick/James Earl Jones,1994
+joy,Toy Story,Animated Family,8.3,Tom Hanks/Tim Allen,1995
+love,Eternal Sunshine of the Spotless Mind,Sci-Fi Romance,8.3,Jim Carrey/Kate Winslet,2004
+nervousness,Pitch Perfect,Musical Comedy,7.1,Anna Kendrick/Rebel Wilson,2012
+optimism,October Sky,Biographical Drama,7.8,Jake Gyllenhaal/Chris Cooper,1999
+pride,Eddie the Eagle,Biographical Sports,7.4,Taron Egerton/Hugh Jackman,2016
+realization,The Shawshank Redemption,Drama,9.3,Tim Robbins/Morgan Freeman,1994
+relief,The Terminal,Comedy Drama,7.4,Tom Hanks/Catherine Zeta-Jones,2004
+remorse,Soul,Animated Comedy,8.1,Jamie Foxx/Tina Fey,2020
+sadness,Coco,Animated Family,8.4,Anthony Gonzalez/Gael García Bernal,2017
+surprise,The Sixth Sense,Psychological Thriller,8.1,Bruce Willis/Haley Joel Osment,1999
+neutral,Her,Sci-Fi Romance,8.0,Joaquin Phoenix/Scarlett Johansson,2013
+admiration,The Social Network,Biographical Drama,7.7,Jesse Eisenberg/Andrew Garfield,2010
+amusement,21 Jump Street,Action Comedy,7.2,Jonah Hill/Channing Tatum,2012
+anger,Selma,Historical Drama,7.5,David Oyelowo/Carmen Ejogo,2014
+annoyance,The Devil Wears Prada,Comedy Drama,6.9,Meryl Streep/Anne Hathaway,2006
+approval,A Star is Born,Musical Romance,7.6,Bradley Cooper/Lady Gaga,2018
+caring,Big Hero 6,Animated Action,7.8,Scott Adsit/Ryan Potter,2014
+confusion,Donnie Darko,Sci-Fi Drama,8.0,Jake Gyllenhaal/Jena Malone,2001
+curiosity,The Martian,Sci-Fi Adventure,8.0,Matt Damon/Jessica Chastain,2015
+desire,Pride and Prejudice,Romance Drama,7.8,Keira Knightley/Matthew Macfadyen,2005
+disappointment,The Perks of Being a Wallflower,Coming-of-Age Drama,8.0,Logan Lerman/Emma Watson,2012
+disapproval,Stand and Deliver,Drama,7.3,Edward James Olmos/Lou Diamond Phillips,1988
+disgust,Zootopia,Animated Comedy,8.0,Ginnifer Goodwin/Jason Bateman,2016
+embarrassment,Easy A,Comedy Drama,7.0,Emma Stone/Penn Badgley,2010
+excitement,How to Train Your Dragon,Animated Adventure,8.1,Jay Baruchel/Gerard Butler,2010
+fear,The Babadook,Horror Drama,6.8,Essie Davis/Noah Wiseman,2014
+gratitude,The Fundamentals of Caring,Comedy Drama,7.3,Paul Rudd/Craig Roberts,2016
+grief,Manchester by the Sea,Drama,7.8,Casey Affleck/Michelle Williams,2016
+joy,Mamma Mia!,Musical Comedy,6.4,Meryl Streep/Amanda Seyfried,2008
+love,500 Days of Summer,Romantic Comedy,7.7,Joseph Gordon-Levitt/Zooey Deschanel,2009
+nervousness,10 Things I Hate About You,Romantic Comedy,7.3,Heath Ledger/Julia Stiles,1999
+optimism,Yes Man,Comedy,6.8,Jim Carrey/Zooey Deschanel,2008
+pride,Billy Elliot,Drama,7.7,Jamie Bell/Julie Walters,2000
+realization,The Breakfast Club,Comedy Drama,7.8,Emilio Estevez/Molly Ringwald,1985
+relief,Finding Nemo,Animated Adventure,8.1,Albert Brooks/Ellen DeGeneres,2003
+remorse,The Green Mile,Fantasy Drama,8.6,Tom Hanks/Michael Clarke Duncan,1999
+sadness,Life is Beautiful,Comedy Drama,8.6,Roberto Benigni/Nicoletta Braschi,1997
+surprise,The Game,Mystery Thriller,7.7,Michael Douglas/Sean Penn,1997
+neutral,Juno,Comedy Drama,7.4,Elliot Page/Michael Cera,2007
+emotion,movie_title,genre,rating,lead_actors,release_year
+admiration,The Pursuit of Happyness,Biographical Drama,8.0,Will Smith/Jaden Smith,2006
+amusement,The Hangover,Comedy,7.7,Bradley Cooper/Ed Helms/Zach Galifianakis,2009
+anger,Rocky,Sports Drama,8.1,Sylvester Stallone/Talia Shire,1976
+annoyance,Legally Blonde,Comedy,6.3,Reese Witherspoon/Luke Wilson,2001
+approval,The Blind Side,Biographical Drama,7.6,Sandra Bullock/Quinton Aaron,2009
+caring,Wonder,Drama,8.0,Julia Roberts/Owen Wilson/Jacob Tremblay,2017
+confusion,Inception,Sci-Fi Thriller,8.8,Leonardo DiCaprio/Ellen Page,2010
+curiosity,Hidden Figures,Biographical Drama,7.8,Taraji P. Henson/Octavia Spencer/Janelle Monáe,2016
+desire,La La Land,Musical Romance,8.0,Ryan Gosling/Emma Stone,2016
+disappointment,Silver Linings Playbook,Romantic Comedy,7.7,Bradley Cooper/Jennifer Lawrence,2012
+disapproval,Dead Poets Society,Drama,8.1,Robin Williams/Ethan Hawke,1989
+disgust,Matilda,Fantasy Comedy,6.9,Mara Wilson/Danny DeVito,1996
+embarrassment,Clueless,Comedy,6.8,Alicia Silverstone/Paul Rudd,1995
+excitement,Avengers: Endgame,Superhero Action,8.4,Robert Downey Jr./Chris Evans,2019
+fear,Jaws,Thriller,8.0,Roy Scheider/Richard Dreyfuss,1975
+gratitude,It's a Wonderful Life,Fantasy Drama,8.6,James Stewart/Donna Reed,1946
+grief,Good Will Hunting,Drama,8.3,Matt Damon/Robin Williams,1997
+joy,Paddington 2,Family Comedy,7.8,Ben Whishaw/Hugh Grant,2017
+love,The Princess Bride,Adventure Romance,8.0,Cary Elwes/Robin Wright,1987
+nervousness,Ferris Bueller's Day Off,Comedy,7.8,Matthew Broderick/Alan Ruck,1986
+optimism,Forrest Gump,Drama,8.8,Tom Hanks/Robin Wright,1994
+pride,The Karate Kid,Sports Drama,7.3,Ralph Macchio/Pat Morita,1984
+realization,The Truman Show,Comedy Drama,8.1,Jim Carrey/Laura Linney,1998
+relief,The Shawshank Redemption,Drama,9.3,Tim Robbins/Morgan Freeman,1994
+remorse,The Perks of Being a Wallflower,Coming-of-Age Drama,8.0,Logan Lerman/Emma Watson,2012
+sadness,Inside Out,Animated Comedy,8.1,Amy Poehler/Phyllis Smith,2015
+surprise,The Greatest Showman,Musical Biography,7.6,Hugh Jackman/Zac Efron,2017
+neutral,The Secret Life of Walter Mitty,Adventure Comedy,7.3,Ben Stiller/Kristen Wiig,2013
+admiration,The Theory of Everything,Biographical Drama,7.7,Eddie Redmayne/Felicity Jones,2014
+amusement,Bridesmaids,Comedy,6.8,Kristen Wiig/Maya Rudolph,2011
+anger,The Help,Drama,8.0,Emma Stone/Viola Davis/Octavia Spencer,2011
+annoyance,Mean Girls,Comedy,7.0,Lindsay Lohan/Rachel McAdams,2004
+approval,Lion,Biographical Drama,8.0,Dev Patel/Nicole Kidman,2016
+caring,Amélie,Romantic Comedy,8.3,Audrey Tautou/Mathieu Kassovitz,2001
+confusion,The Matrix,Sci-Fi Action,8.7,Keanu Reeves/Laurence Fishburne,1999
+curiosity,Interstellar,Sci-Fi Adventure,8.6,Matthew McConaughey/Anne Hathaway,2014
+desire,Before Sunrise,Romance Drama,8.1,Ethan Hawke/Julie Delpy,1995
+disappointment,Little Miss Sunshine,Comedy Drama,7.8,Abigail Breslin/Greg Kinnear,2006
+disapproval,Freedom Writers,Biography Drama,7.5,Hilary Swank/Patrick Dempsey,2007
+disgust,The Breakfast Club,Comedy Drama,7.8,Emilio Estevez/Judd Nelson/Molly Ringwald,1985
+embarrassment,The 40-Year-Old Virgin,Comedy,7.1,Steve Carell/Catherine Keener,2005
+excitement,Spider-Man: Into the Spider-Verse,Animated Superhero,8.4,Shameik Moore/Jake Johnson,2018
+fear,Get Out,Horror Thriller,7.7,Daniel Kaluuya/Allison Williams,2017
+gratitude,Pay It Forward,Drama,7.1,Haley Joel Osment/Kevin Spacey/Helen Hunt,2000
+grief,Up,Animated Adventure,8.2,Ed Asner/Jordan Nagai,2009
+joy,Singin' in the Rain,Musical Comedy,8.3,Gene Kelly/Debbie Reynolds,1952
+love,When Harry Met Sally,Romantic Comedy,7.6,Billy Crystal/Meg Ryan,1989
+nervousness,School of Rock,Musical Comedy,7.1,Jack Black/Joan Cusack,2003
+optimism,Life is Beautiful,Comedy Drama,8.6,Roberto Benigni/Nicoletta Braschi,1997
+pride,Remember the Titans,Sports Drama,7.8,Denzel Washington/Will Patton,2000
+realization,The Sixth Sense,Thriller,8.1,Bruce Willis/Haley Joel Osment,1999
+relief,Cast Away,Adventure Drama,7.8,Tom Hanks/Helen Hunt,2000
+remorse,About Time,Romantic Comedy,7.8,Domhnall Gleeson/Rachel McAdams,2013
+sadness,The Fault in Our Stars,Romance Drama,7.7,Shailene Woodley/Ansel Elgort,2014
+surprise,Back to the Future,Sci-Fi Comedy,8.5,Michael J. Fox/Christopher Lloyd,1985
+neutral,Lost in Translation,Drama,7.7,Bill Murray/Scarlett Johansson,2003
+admiration,A Beautiful Mind,Biographical Drama,8.2,Russell Crowe/Jennifer Connelly,2001
+amusement,Dumb and Dumber,Comedy,7.3,Jim Carrey/Jeff Daniels,1994
+anger,12 Years a Slave,Historical Drama,8.1,Chiwetel Ejiofor/Michael Fassbender,2013
+annoyance,Mrs. Doubtfire,Comedy,7.0,Robin Williams/Sally Field,1993
+approval,The Intouchables,Biography Comedy,8.5,François Cluzet/Omar Sy,2011
+caring,Spirited Away,Animated Fantasy,8.6,Rumi Hiiragi/Miyu Irino,2001
+confusion,The Prestige,Mystery Thriller,8.5,Hugh Jackman/Christian Bale,2006
+curiosity,The Imitation Game,Historical Drama,8.0,Benedict Cumberbatch/Keira Knightley,2014
+desire,Casablanca,Romance Drama,8.5,Humphrey Bogart/Ingrid Bergman,1942
+disappointment,The Secret Garden,Family Drama,7.3,Kate Maberly/Maggie Smith,1993
+disapproval,Whiplash,Drama Music,8.5,Miles Teller/J.K. Simmons,2014
+disgust,Ratatouille,Animated Comedy,8.0,Patton Oswalt/Lou Romano,2007
+embarrassment,Bridget Jones's Diary,Romantic Comedy,6.7,Renée Zellweger/Colin Firth,2001
+excitement,Guardians of the Galaxy,Sci-Fi Adventure,8.0,Chris Pratt/Zoe Saldana,2014
+fear,Jumanji,Adventure Fantasy,7.0,Robin Williams/Bonnie Hunt,1995
+gratitude,The Bucket List,Comedy Drama,7.4,Jack Nicholson/Morgan Freeman,2007
+grief,The Lion King,Animated Drama,8.5,Matthew Broderick/James Earl Jones,1994
+joy,Toy Story,Animated Family,8.3,Tom Hanks/Tim Allen,1995
+love,Eternal Sunshine of the Spotless Mind,Sci-Fi Romance,8.3,Jim Carrey/Kate Winslet,2004
+nervousness,Pitch Perfect,Musical Comedy,7.1,Anna Kendrick/Rebel Wilson,2012
+optimism,October Sky,Biographical Drama,7.8,Jake Gyllenhaal/Chris Cooper,1999
+pride,Eddie the Eagle,Biographical Sports,7.4,Taron Egerton/Hugh Jackman,2016
+realization,Fight Club,Drama Thriller,8.8,Brad Pitt/Edward Norton,1999
+relief,The Terminal,Comedy Drama,7.4,Tom Hanks/Catherine Zeta-Jones,2004
+remorse,Soul,Animated Comedy,8.1,Jamie Foxx/Tina Fey,2020
+sadness,Coco,Animated Family,8.4,Anthony Gonzalez/Gael García Bernal,2017
+surprise,The Usual Suspects,Crime Thriller,8.5,Kevin Spacey/Gabriel Byrne,1995
+neutral,Her,Sci-Fi Romance,8.0,Joaquin Phoenix/Scarlett Johansson,2013
+admiration,The Social Network,Biographical Drama,7.7,Jesse Eisenberg/Andrew Garfield,2010
+amusement,21 Jump Street,Action Comedy,7.2,Jonah Hill/Channing Tatum,2012
+anger,Selma,Historical Drama,7.5,David Oyelowo/Carmen Ejogo,2014
+annoyance,The Devil Wears Prada,Comedy Drama,6.9,Meryl Streep/Anne Hathaway,2006
+approval,A Star is Born,Musical Romance,7.6,Bradley Cooper/Lady Gaga,2018
+caring,Big Hero 6,Animated Action,7.8,Scott Adsit/Ryan Potter,2014
+confusion,Donnie Darko,Sci-Fi Drama,8.0,Jake Gyllenhaal/Jena Malone,2001
+curiosity,The Martian,Sci-Fi Adventure,8.0,Matt Damon/Jessica Chastain,2015
+desire,Pride and Prejudice,Romance Drama,7.8,Keira Knightley/Matthew Macfadyen,2005
+disappointment,August Rush,Drama Music,7.5,Freddie Highmore/Keri Russell,2007
+disapproval,Stand and Deliver,Drama,7.3,Edward James Olmos/Lou Diamond Phillips,1988
+disgust,Zootopia,Animated Comedy,8.0,Ginnifer Goodwin/Jason Bateman,2016
+embarrassment,Easy A,Comedy Drama,7.0,Emma Stone/Penn Badgley,2010
+excitement,How to Train Your Dragon,Animated Adventure,8.1,Jay Baruchel/Gerard Butler,2010
+fear,The Babadook,Horror Drama,6.8,Essie Davis/Noah Wiseman,2014
+gratitude,The Fundamentals of Caring,Comedy Drama,7.3,Paul Rudd/Craig Roberts,2016
+grief,Manchester by the Sea,Drama,7.8,Casey Affleck/Michelle Williams,2016
+joy,Mamma Mia!,Musical Comedy,6.4,Meryl Streep/Amanda Seyfried,2008
+love,500 Days of Summer,Romantic Comedy,7.7,Joseph Gordon-Levitt/Zooey Deschanel,2009
+nervousness,10 Things I Hate About You,Romantic Comedy,7.3,Heath Ledger/Julia Stiles,1999
+optimism,Yes Man,Comedy,6.8,Jim Carrey/Zooey Deschanel,2008
+pride,Billy Elliot,Drama,7.7,Jamie Bell/Julie Walters,2000
+realization,American Beauty,Drama,8.3,Kevin Spacey/Annette Bening,1999
+relief,Finding Nemo,Animated Adventure,8.1,Albert Brooks/Ellen DeGeneres,2003
+remorse,The Green Mile,Fantasy Drama,8.6,Tom Hanks/Michael Clarke Duncan,1999
+sadness,Grave of the Fireflies,Animated War Drama,8.5,Tsutomu Tatsumi/Ayano Shiraishi,1988
+surprise,The Game,Mystery Thriller,7.7,Michael Douglas/Sean Penn,1997
+neutral,Juno,Comedy Drama,7.4,Elliot Page/Michael Cera,2007
